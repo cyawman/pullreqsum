@@ -1,0 +1,8 @@
+---
+github:
+   repository: owner/repo
+mailer:
+   message:
+      sender: sender@mail.com
+      recipients: receiver@mail.com 
+      subject: Github Pull Request Summary - Last 7 days
